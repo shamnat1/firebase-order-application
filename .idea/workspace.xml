@@ -36,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="142" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="142" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -403,12 +403,12 @@
       <workItem from="1619586987419" duration="1441000" />
       <workItem from="1619615883331" duration="29781000" />
       <workItem from="1619754090716" duration="4292000" />
-      <workItem from="1619788041363" duration="10811000" />
+      <workItem from="1619788041363" duration="10968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116395000" />
+    <option name="totallyTimeSpent" value="116552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="6" />
@@ -876,8 +876,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="142" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="142" />
             <folding />
           </first_editor>
           <second_editor />
